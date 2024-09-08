@@ -107,5 +107,11 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
         tags: "skate fada sk8"
     },
+    {
+        titulo: "Fernando Assis",
+        descricao: "Nascido e criado no Rio de Janeiro/RJ, sou casado e pai de uma filha de 10 anos, que traz alegria à nossa casa. Enquanto mantenho minha prática em esportes ao ar livre, como fazer parte de um grupo de rapel e liderar expedições de trekking pela Mata Atlântica, minha atenção está voltada para o mundo da tecnologia. Desde cedo, fui fascinado pela alta tecnologia vista em filmes e, ao ajudar meu primo especialista em TI, percebi que esse era o caminho para minha realização profissional.",
+        link: "https://www.linkedin.com/in/fernando-assis-santos/",
+        tags: "TI ti exercícios exercios"
+    },
 
 ];
