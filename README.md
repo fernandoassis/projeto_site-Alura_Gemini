@@ -3,4 +3,4 @@
  
  Para visualizar o site funcionando, use o link ao lado em uma nova guia: http://atletasolimpicosbrasil2024.s3-website-us-east-1.amazonaws.com/
 
- Atenção, site do projeto ainda em processo de pequenas melhorias.
+ Atenção, site do projeto ainda em processo de pequenas melhorias. Obrigado pela visita.
